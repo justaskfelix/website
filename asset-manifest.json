@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef376d29.chunk.css",
+    "main.js": "/static/js/main.1f08ccd1.chunk.js",
+    "main.js.map": "/static/js/main.1f08ccd1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d4037d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d4037d1.js.map",
+    "static/css/2.5c0f8a16.chunk.css": "/static/css/2.5c0f8a16.chunk.css",
+    "static/js/2.c8b70060.chunk.js": "/static/js/2.c8b70060.chunk.js",
+    "static/js/2.c8b70060.chunk.js.map": "/static/js/2.c8b70060.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ad933bbe8085015721f0ff71215a452b.js": "/precache-manifest.ad933bbe8085015721f0ff71215a452b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5c0f8a16.chunk.css.map": "/static/css/2.5c0f8a16.chunk.css.map",
+    "static/css/main.ef376d29.chunk.css.map": "/static/css/main.ef376d29.chunk.css.map",
+    "static/js/2.c8b70060.chunk.js.LICENSE.txt": "/static/js/2.c8b70060.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/AKZIDENZGROTESK-LIGHTITALIC.3ed19ad0.OTF",
+    "static/media/newsletter.css": "/static/media/AKZIDENZGROTESK-MEDIUM.ec0eb867.OTF",
+    "static/media/ads.txt": "/static/media/ads.b0dec8e3.txt",
+    "static/media/back-arrow.svg": "/static/media/back-arrow.fbcb113b.svg",
+    "static/media/big-helmet-guy.svg": "/static/media/big-helmet-guy.1b81e5b3.svg",
+    "static/media/logo.png": "/static/media/logo.8e6b410c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d4037d1.js",
+    "static/css/2.5c0f8a16.chunk.css",
+    "static/js/2.c8b70060.chunk.js",
+    "static/css/main.ef376d29.chunk.css",
+    "static/js/main.1f08ccd1.chunk.js"
+  ]
+}
